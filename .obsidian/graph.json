@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#lema  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#proposicion  ",
+      "color": {
+        "a": 1,
+        "rgb": 7778653
+      }
+    },
+    {
+      "query": "tag:#definicion  ",
+      "color": {
+        "a": 1,
+        "rgb": 10833085
+      }
+    },
+    {
+      "query": "tag:#teorema",
+      "color": {
+        "a": 1,
+        "rgb": 4480187
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 1.44478943611706,
+  "lineSizeMultiplier": 1.6686295503212,
+  "collapse-forces": false,
+  "centerStrength": 0.463541666666667,
+  "repelStrength": 12.3958333333333,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.09772786381085978,
+  "close": true
+}
